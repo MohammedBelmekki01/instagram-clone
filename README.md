@@ -2,7 +2,7 @@
 # Instagram Clone using MERN Stack - Frontend
 
 This project is a clone of Instagram, built using the MERN stack, with the frontend developed using React, Redux, and Material-UI.
-If you are looking for the backend repo : https://github.com/yassinjouao/instagram-clone-backend
+If you are looking for the backend repo : https://github.com/MohammedBelmekki01/instagram-clone-backend
 
 ## Project Details:
 You can view a demo of this project here.
@@ -21,7 +21,7 @@ To install and run this project locally, follow these steps:
 
 1) Clone the repository:
 
-`git clone https://github.com/your_username/instagram-clone-frontend.git`
+`git clone https://github.com/MohammedBelmekki01/instagram-clone.git`
 
 2) Navigate into the cloned directory
 
@@ -62,7 +62,8 @@ https://github.com/yassinjouao/instagram-clone-frontend/assets/44931090/5a6b7d41
 
 ## Authors
 
-- [@yassinjouao](https://github.com/yassinjouao)
+- [@MohammedBelmekki01](https://github.com/MohammedBelmekki01)
+- Original project by [@yassinjouao](https://github.com/yassinjouao)
 
 
 
