@@ -58,12 +58,9 @@ Contributions to this project are welcome. To contribute, follow these steps:
 5) Create a pull request in this repository
 
 
-https://github.com/yassinjouao/instagram-clone-frontend/assets/44931090/5a6b7d41-d913-4eee-8254-014731e369a8
-
 ## Authors
 
 - [@MohammedBelmekki01](https://github.com/MohammedBelmekki01)
-- Original project by [@yassinjouao](https://github.com/yassinjouao)
 
 
 
